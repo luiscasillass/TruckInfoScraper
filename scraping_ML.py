@@ -1,3 +1,4 @@
+# Objetivo del programa: extraer informacion de grupos de facebook para JARO Freight
 import json
 import pandas as pd
 from collections import defaultdict
